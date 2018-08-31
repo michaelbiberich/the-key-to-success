@@ -13,3 +13,7 @@ Verification: 75e24e82e3abc70416a666923af57b43ee7f629d
 Name: Vincent Kielnhofer
 Date: 2018-08-16
 Verification: d67e0c2a93e9881516e7710a3179454ad7a34d45
+
+Name: Carlos Arnau Ros
+Date: 2018-08-30
+Verification: abb3d6da92fcce9ddf378b693f37a119861e68b5
